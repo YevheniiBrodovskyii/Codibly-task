@@ -1,0 +1,13 @@
+{
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"ecmaVersion": 6
+	},
+
+	"extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
+	"rules": {
+		"no-unused-vars": "warn",
+		"vue/html-indent": "off"
+	},
+	"plugins": ["@typescript-eslint"]
+}

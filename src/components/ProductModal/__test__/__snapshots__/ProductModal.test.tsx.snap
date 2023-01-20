@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main tests should match snapshot on initial render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-eDvSVe iCWvry"
+      />
+      <div
+        class="sc-bcXHqe enNWYc"
+      >
+        <div
+          class="sc-gswNZR eNrUwv"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="CloseIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+            />
+          </svg>
+        </div>
+        <div
+          class="sc-dkrFOg dhxzHb"
+        >
+          <div
+            class="sc-hLBbgP kKREqP"
+          >
+            <h1
+              class="sc-jSUZER hQovIt"
+              color="#000000"
+            >
+              Test
+            </h1>
+            <h2
+              class="sc-gKPRtg hnBATD"
+            >
+              2023
+            </h2>
+            <h3
+              class="sc-iBYQkv dhnlck"
+            >
+              Product id: 
+              1
+            </h3>
+          </div>
+          <div
+            class="sc-ftTHYK UzabQ"
+            color="#000000"
+          />
+        </div>
+        <p
+          class="sc-pyfCe FWTta"
+        >
+          20-2023
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-eDvSVe iCWvry"
+    />
+    <div
+      class="sc-bcXHqe enNWYc"
+    >
+      <div
+        class="sc-gswNZR eNrUwv"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+          data-testid="CloseIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+          />
+        </svg>
+      </div>
+      <div
+        class="sc-dkrFOg dhxzHb"
+      >
+        <div
+          class="sc-hLBbgP kKREqP"
+        >
+          <h1
+            class="sc-jSUZER hQovIt"
+            color="#000000"
+          >
+            Test
+          </h1>
+          <h2
+            class="sc-gKPRtg hnBATD"
+          >
+            2023
+          </h2>
+          <h3
+            class="sc-iBYQkv dhnlck"
+          >
+            Product id: 
+            1
+          </h3>
+        </div>
+        <div
+          class="sc-ftTHYK UzabQ"
+          color="#000000"
+        />
+      </div>
+      <p
+        class="sc-pyfCe FWTta"
+      >
+        20-2023
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": Object {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;
